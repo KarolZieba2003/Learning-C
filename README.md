@@ -1,1 +1,2 @@
 # Learning-C
+This project follows my journey of learning and mastering the C programming language. The contents include both exercises from my university C course and challenges I've discovered through online resources and programming books that I wanted to attempt. Every solution represents my own work as I develop a deeper understanding of the language, particularly with future Arduino applications in mind.
