@@ -1,0 +1,8 @@
+Zadanie 3
+
+Na podstawie fragmentu dokumentacji technicznej mikrokontrolera AVR Atmega32 należy napisać program, który analizuje wartość rejestru ADMUX wprowadzoną przez użytkownika i wyświetla następujące informacje:  
+
+1. Wybrane źródło napięcia odniesienia – określone przez kombinację bitów REFS1 i REFS0.  
+2. Ustawiony sposób prezentacji wyniku (wyrównanie do lewej lub prawej) – określony przez stan bitu ADLAR.  
+
+Program powinien odczytać podaną wartość rejestru ADMUX, zinterpretować odpowiednie bity i wyświetlić na ekranie uzyskane ustawienia.
